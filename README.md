@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Bronx Technology Co,. LTD.
+- 🌱 I’m currently learning Java and Spring Boot.
+- 👯 I’m looking to collaborate on Starter Project.
+- 🤔 I’m looking for help with Spring boot.
+- 💬 Ask me about ...
+- 📫 How to reach me:
+  - [Linkedin profile](https://www.linkedin.com/in/chando-yon-28a004160/)
+
 <!--
 **yonchando/yonchando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
