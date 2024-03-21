@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bronx Technology Co,. LTD.
-- 🌱 I’m currently learning Java and Spring Boot.
+- 🔭 I’m currently working on Phillip Bank Plc.
+- 🌱 I’m currently learning new on Javascript and Nodejs.
 - 👯 I’m looking to collaborate on Starter Project.
-- 🤔 I’m looking for help with Spring boot.
+- 🤔 I’m looking to hand on some Javascript and Nodejs project.
 - 💬 Ask me about ...
 - 📫 How to reach me:
   - [Linkedin profile](https://www.linkedin.com/in/chando-yon-28a004160/)
+  - [Email](von.chando@gmail.com)
+  - [Telegram](https://t.me/yonchando)
 
 <!--
 **yonchando/yonchando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
